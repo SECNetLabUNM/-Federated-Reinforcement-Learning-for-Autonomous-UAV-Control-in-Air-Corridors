@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Transformer-based Multi-agent Reinforcement Learning for Multiple Unmanned Aerial Vehicle Coordination in Air Corridors
 ## Animation on torus-cylinder-cylinder-torus
 
@@ -25,3 +26,6 @@ Air corridors are modelled as cylinder and partial torus.
 ### Training File
 [main.py](rl_multi_3d_trans%2Fmain.py)
 
+=======
+# Federated-Reinforcement-Learning-for-Autonomous-UAV-Control-in-Air-Corridors
+>>>>>>> bd2ba4e (first commit)
